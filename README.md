@@ -1,6 +1,6 @@
 Hi, I’m @mikogoyenechea
 
-I’m currently training to provide LIMS (Laboratory Information Management Systems) support and application development.
+I’m currently training to provide LIMS (Laboratory Information Management Systems) application support and development.
 
 I’m interested in learning front-end web development.
 
